@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Nina%20Hwang&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=5A37A6&height=180&section=header&text=Nina&fontSize=60&animation=twinkling&fontColor=FFD500)
 
 <h3 align="center">A web developer from Incheon, South Korea🇰🇷</h3>
 
@@ -51,4 +51,3 @@
   <a href="https://dev.to/ninahwang"><img alt="Dev.to blog" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"></a>
 <br>
 
-![footer](https://capsule-render.vercel.app/api?section=footer)
