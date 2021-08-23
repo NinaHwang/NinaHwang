@@ -1,7 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=5A37A6&height=180&section=header&text=Nina&fontSize=60&animation=twinkling&fontColor=FFD500)
 
 <h3 align="center">A web developer from Incheon, South Korea🇰🇷</h3>
-
 <br>
 <br>
 
@@ -50,4 +49,5 @@
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=hwangninaa@gmail.com&su=SUBJECT&body=BODY&bcc=hwangninaa@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://dev.to/ninahwang"><img alt="Dev.to blog" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"></a>
 <br>
-
+<br>
+<br>
