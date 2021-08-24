@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=5A37A6&height=180&section=header&text=Nina&fontSize=60&animation=twinkling&fontColor=FFD500)
 
-<h3 align="center">A web developer from Incheon, South Korea🇰🇷</h3>
+<h3 align="center">A backend developer from Incheon, South Korea🇰🇷</h3>
 <br>
 <br>
 
